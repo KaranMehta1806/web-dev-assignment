@@ -10,14 +10,6 @@ This project is a responsive UI built using **React**, **Vite**, and **Tailwind 
 ## 🌐 Live Demo
 Check out the live demo of the project:https://web-dev-assignment-tau.vercel.app/
 
-## Screenshots
-<div>
-  <img src="/public/img/pic1.png" alt="Landing Screen" width="400" />
-  <img src="/public/img/pic3.png" alt="Login Screen" width="400" />
-  <img src="/public/img/pic2.png" alt="Signup Screen" width="400" />
-  <img src="/public/img/pic4.png" alt="Profile Screen" width="400" />
-</div>
-
 ### **Deployment**
 ![Vercel](https://img.shields.io/badge/Frontend-Hosted_on_Vercel-%23000000?logo=vercel)
 
