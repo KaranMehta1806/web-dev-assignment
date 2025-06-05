@@ -25,7 +25,7 @@ Clone the project repository to your local machine using the following command:
 git clone https://github.com/KaranMehta1806/Library-Management.git
 ```
 
-# Step 3: Install dependencies
+### Step 2: Install dependencies
 ```bash
 npm install
 ```
